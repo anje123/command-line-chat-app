@@ -1,0 +1,25 @@
+{
+  "name": "command-line-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pusher/chatkit": "^0.7.12",
+    "@pusher/chatkit-client": "^1.11.0",
+    "@pusher/chatkit-server": "^2.1.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsdom": "^15.1.1",
+    "node-color-log": "^2.2.0",
+    "prompt": "^1.0.0",
+    "readline": "^1.3.0"
+  }
+}
